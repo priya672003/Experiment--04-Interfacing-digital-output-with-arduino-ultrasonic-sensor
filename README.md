@@ -1,4 +1,9 @@
-# EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
+### EX NO: 04
+
+### DATE:
+# <p align="center"> Interfacing digital output with arduino ultrasonic sensor </p>
+
+
 
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
